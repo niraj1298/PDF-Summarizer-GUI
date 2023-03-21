@@ -7,6 +7,7 @@
 
 Developed by: Niraj Nepal
 Functionality: This script allows the user to summarize PDF files using OpenAI's GPT-3.
+Verison: 1.1.0
 
 References:
 https://pypdf2.readthedocs.io/en/latest/user/extract-text.html ,

@@ -15,8 +15,6 @@ https://analyzingalpha.com/openai-api-python-tutorial
 https://realpython.com/python-gui-tkinter/
 https://www.pythontutorial.net/tkinter/
 
-
-
 """
 
 import openai

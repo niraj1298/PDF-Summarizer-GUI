@@ -7,7 +7,7 @@ This script allows the user to summarize PDF files using OpenAI's GPT-3.
 
 
 
-## **HOW TO USE**
+## HOW TO USE
 ### MUST UPDATE TO YOUR OWN OPENAI KEY
 
 1. Click 'Select PDF File' to get your file onto the program

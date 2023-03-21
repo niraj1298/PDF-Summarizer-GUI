@@ -11,8 +11,8 @@ Functionality: This script allows the user to summarize PDF files using OpenAI's
 References:
 https://pypdf2.readthedocs.io/en/latest/user/extract-text.html ,
 https://platform.openai.com/docs/api-reference/models/retrieve?lang=python ,
-https://analyzingalpha.com/openai-api-python-tutorial
-https://realpython.com/python-gui-tkinter/
+https://analyzingalpha.com/openai-api-python-tutorial ,
+https://realpython.com/python-gui-tkinter/ ,
 https://www.pythontutorial.net/tkinter/
 
 """

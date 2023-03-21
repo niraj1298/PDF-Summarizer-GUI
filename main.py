@@ -22,7 +22,7 @@ import PyPDF2
 import tkinter as tk
 from tkinter import filedialog
 
-openai.api_key = "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"
+openai.api_key = "INSERT YOUR OWN KEY"
 
 # Function to extract text from PDF
 def extract_text_from_pdf(pdf_path):
